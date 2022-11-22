@@ -1,3 +1,10 @@
-# SEC660
+# Kali initial setup scripts
 
-## Network Attacks for PT
+- terminator
+- vim config
+- tmux
+
+```sh
+chmod +x setup.sh
+./setup.sh
+```
